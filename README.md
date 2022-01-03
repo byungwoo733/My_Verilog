@@ -5,6 +5,7 @@ Verilog IDE: EDA Playground / Visual Studio Code
 
 https://www.edaplayground.com/
 
+Visual Studio Code (in Github) -> Click "."(point) on Keyboard in Code Repository
 
 GPUTop:
 
